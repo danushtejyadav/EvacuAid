@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066857215242",
+    "project_id": "evacuaid-prod",
+    "storage_bucket": "evacuaid-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066857215242:android:ecfedd4ac524279ac176f3",
+        "android_client_info": {
+          "package_name": "com.ltnoname.evacuaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAa5jnhjb_4ihluauGKPDaP-TFQTb6WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

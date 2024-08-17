@@ -1,0 +1,101 @@
+{
+  "markers": [
+    {
+      "id": "pGooglePlex",
+      "position": {"lat": 11.023970, "lng": 76.976393},
+      "infoWindow": {"title": "Google Plex"}
+    },
+    {
+      "id": "pApplePark",
+      "position": {"lat": 12.955106, "lng": 77.575245},
+      "infoWindow": {"title": "Apple Park"}
+    },
+    {
+      "id": "newMarker",
+      "position": {"lat": 11.015395, "lng": 76.977895},
+      "infoWindow": {"title": "New Marker"}
+    },
+    {
+      "id": "extraMarker",
+      "position": {"lat": 11.026680, "lng": 77.017809},
+      "infoWindow": {"title": "Extra Marker"}
+    },
+    {
+      "id": "extraMarker2",
+      "position": {"lat": 11.018622, "lng": 77.006965},
+      "infoWindow": {"title": "Extra Marker 2"}
+    },
+    {
+      "id": "extraMarker3",
+      "position": {"lat": 11.019621, "lng": 76.994975},
+      "infoWindow": {"title": "Extra Marker 3"}
+    }
+  ],
+  "polygons": [
+    {
+      "id": "0",
+      "points": [
+        {"lat": 11.020267, "lng": 76.991951},
+        {"lat": 11.021352, "lng": 76.971570},
+        {"lat": 11.027598, "lng": 76.974160},
+        {"lat": 11.034362, "lng": 76.990143},
+        {"lat": 11.021857, "lng": 76.995645}
+      ],
+      "fillColor": "#4d8ff3",
+      "strokeColor": "#4d8ff3",
+      "strokeWidth": 4
+    },
+    {
+      "id": "1",
+      "points": [
+        {"lat": 12.957230, "lng": 77.573715},
+        {"lat": 12.956370, "lng": 77.577236},
+        {"lat": 12.955069, "lng": 77.580079},
+        {"lat": 12.948407, "lng": 77.579897},
+        {"lat": 12.948399, "lng": 77.573710}
+      ],
+      "fillColor": "#ff4d4d",
+      "strokeColor": "#ff4d4d",
+      "strokeWidth": 4
+    },
+    {
+      "id": "2",
+      "points": [
+        {"lat": 11.020939, "lng": 76.971065},
+        {"lat": 11.021399, "lng": 76.981701},
+        {"lat": 11.020229, "lng": 76.992166},
+        {"lat": 11.012961, "lng": 76.986045},
+        {"lat": 11.003982, "lng": 76.972658},
+        {"lat": 11.002602, "lng": 76.966772},
+        {"lat": 11.014460, "lng": 76.967758}
+      ],
+      "fillColor": "#4df34d",
+      "strokeColor": "#4df34d",
+      "strokeWidth": 4
+    },
+    {
+      "id": "3",
+      "points": [
+        {"lat": 11.020290, "lng": 76.992074},
+        {"lat": 11.012938, "lng": 76.986202},
+        {"lat": 11.012071, "lng": 77.002740},
+        {"lat": 11.022432, "lng": 76.999908}
+      ],
+      "fillColor": "#f3f34d",
+      "strokeColor": "#f3f34d",
+      "strokeWidth": 4
+    },
+    {
+      "id": "4",
+      "points": [
+        {"lat": 11.022539, "lng": 76.999994},
+        {"lat": 11.012125, "lng": 77.002883},
+        {"lat": 11.006263, "lng": 77.018650},
+        {"lat": 11.024212, "lng": 77.021504}
+      ],
+      "fillColor": "#b94df3",
+      "strokeColor": "#b94df3",
+      "strokeWidth": 4
+    }
+  ]
+}
