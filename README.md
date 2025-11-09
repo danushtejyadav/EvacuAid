@@ -58,7 +58,8 @@ It bridges the communication gap during emergencies by offering real-time alerts
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Evacuaid.git
+[git clone https://github.com/<your-username>/Evacuaid.git
+](https://github.com/danushtejyadav/EvacuAid.git)
 cd Evacuaid
 
 # Install dependencies
