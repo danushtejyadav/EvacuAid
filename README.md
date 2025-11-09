@@ -1,16 +1,68 @@
-# evacuaid
+# Evacuaid
 
-EvacuAid production environment.
+**Evacuaid** is a cross-platform **Disaster Management & Emergency Response** mobile app built using **Flutter**.  
+It helps users stay safe during disasters by providing real-time alerts, safe evacuation routes, nearby shelters, and quick SOS support.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+Evacuaid empowers users with timely, location-based disaster updates and actionable safety options.  
+It bridges the communication gap during emergencies by offering real-time alerts, verified shelters, and direct SOS capabilities — even in low-connectivity environments.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Features
+
+✅ Real-time disaster alerts and notifications  
+✅ Safe route navigation via Maps  
+✅ Nearby shelter locator with directions  
+✅ One-tap SOS with location sharing  
+✅ Offline access for critical data  
+✅ Emergency contact list & quick dial  
+✅ Multilingual support (English + Kannada)  
+✅ Clean UI/UX with accessibility options  
+✅ Firebase / Custom backend support  
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | Flutter (Dart) |
+| **Maps** | Google Maps SDK / Mapbox / OpenStreetMap |
+| **Backend** | Firebase / REST API (Node.js or Python Flask) |
+| **Database** | Firebase Firestore / Realtime DB |
+| **Authentication** | Firebase Auth (Email / Phone / OAuth) |
+| **Notifications** | Firebase Cloud Messaging (FCM) |
+| **Hosting / CI** | GitHub Actions, Firebase Hosting |
+
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio / VS Code
+- Firebase Project (if using Firebase backend)
+- Google Maps API Key (for map functionality)
+
+---
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/Evacuaid.git
+cd Evacuaid
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
